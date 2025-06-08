@@ -1,0 +1,60 @@
+1	Este producto es excelente, me encant� su calidad
+1	La atenci�n fue r�pida y el producto cumpli� mis expectativas
+0	No recomiendo este producto, lleg� roto
+0	Tard� mucho en llegar y no funciona
+1	Muy buena experiencia, volver�a a comprar
+0	Es un enga�o, no coincide con la descripci�n
+1	Funciona perfectamente, justo lo que necesitaba
+0	Mal servicio al cliente y mala calidad
+1	La mejor compra que he hecho este a�o
+0	Nunca m�s comprar� aqu�
+1	Excelente servicio, lleg� antes de lo esperado
+1	El producto funciona de maravilla, muy satisfecho
+0	Muy decepcionado, el producto vino da�ado
+0	No era lo que esperaba, mala calidad
+1	Entrega r�pida y el empaque impecable
+0	No volver�a a comprar, mal producto
+1	Calidad insuperable, totalmente recomendable
+1	Atenci�n al cliente muy amable y resolutiva
+0	Producto defectuoso, tuve que devolverlo
+0	Muy mala experiencia, lleg� incompleto
+1	Me encant�, justo lo que necesitaba
+1	Perfecto para lo que buscaba, cinco estrellas
+0	Demasiado caro para lo que ofrece
+0	No cumple con las especificaciones
+1	Volver� a comprar sin dudarlo
+1	Funcionamiento impecable, super� mis expectativas
+0	Mala presentaci�n y peor funcionamiento
+0	Lleg� tarde y sin accesorios
+1	Incre�ble relaci�n calidad-precio
+1	Todo excelente, muy contento con la compra
+0	No me gust� nada, p�sima compra
+0	Todo sali� mal, experiencia negativa
+1	Maravilloso producto, lo recomiendo
+1	Muy buena calidad y excelente precio
+0	No sirve, se rompi� al primer uso
+0	Me lleg� un producto usado, muy mal
+1	Satisfacci�n total, volver� a comprar
+1	Todo en orden y funcionando bien
+0	Servicio lento y poco profesional
+0	Parece de juguete, muy fr�gil
+1	Estoy feliz con mi compra
+1	Gran producto, entrega r�pida
+0	P�rdida de dinero, no funciona
+0	Muy mala calidad, se descompuso r�pido
+1	Buena atenci�n y producto como se describe
+1	Todo sali� perfecto, gracias
+0	Experiencia frustrante, no lo recomiendo
+0	Mal servicio postventa, no ayudan en nada
+1	Muy contento, fue una gran compra
+1	Funciona tal cual como lo anuncian
+0	Producto de baja calidad, decepcionante
+0	No lleg� a tiempo y ven�a sucio
+1	Todo excelente, lo recomiendo totalmente
+1	Muy buena experiencia de compra
+0	Calidad inferior a la esperada
+0	No funciona bien, se apaga solo
+1	Excelente precio por un gran producto
+1	Muy recomendable, todo perfecto
+0	Tuve muchos problemas con el pedido
+0	El art�culo lleg� roto y usado
