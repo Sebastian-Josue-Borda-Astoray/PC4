@@ -30,17 +30,19 @@ else
 
 app.UseHttpsRedirection();
 app.UseRouting();
-
+app.UseAuthentication();
 app.UseAuthorization();
 
-app.MapStaticAssets();
+
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}")
-    .WithStaticAssets();
+    pattern: "{controller=Home}/{action=Index}/{id?}");
 
-app.MapRazorPages()
-   .WithStaticAssets();
+// Razor Pages (Identity UI, etc.)
+app.MapRazorPages();
+
+// Si tuvieras una SPA, podrías añadir también:
+// app.MapFallbackToFile("index.html");
 
 app.Run();
